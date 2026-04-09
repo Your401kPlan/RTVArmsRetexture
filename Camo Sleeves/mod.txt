@@ -1,0 +1,7 @@
+[mod]
+name="Your Camo Mod"
+id="your-camo-mod"
+version="1.0.0"
+
+[autoload]
+YourCamoMod="res://mods/YourCamoMod/Main.gd"
